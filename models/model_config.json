@@ -1,0 +1,28 @@
+{
+    "GCN": {
+        "configuration": {
+            "hidden_channels": 128,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.005
+        },
+        "best_validation_accuracy": 0.7212993724621631
+    },
+    "GraphSAGE": {
+        "configuration": {
+            "hidden_channels": 128,
+            "num_layers": 3,
+            "dropout": 0.5,
+            "learning_rate": 0.005
+        },
+        "best_validation_accuracy": 0.724789422463841
+    },
+    "input_features": 128,
+    "output_classes": 40,
+    "weight_decay": 0.0005,
+    "max_epochs": 200,
+    "early_stopping_patience": 30,
+    "loss_function": "CrossEntropyLoss",
+    "optimizer": "Adam",
+    "model_selection_metric": "Validation Accuracy"
+}
