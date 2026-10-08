@@ -1,0 +1,10 @@
+Measure,Value
+Selected Node,160484.0
+True Class,16.0
+Original Predicted Class,16.0
+Original Confidence,0.9999977350234985
+Number of Neighbors,157.0
+Same-Class Neighbor Ratio,0.9872611464968153
+Prediction After Edge Ablation,16.0
+Confidence After Edge Ablation,0.9989247918128967
+Confidence Change,0.0010729432106018066

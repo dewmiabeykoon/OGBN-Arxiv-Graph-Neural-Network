@@ -1,0 +1,11 @@
+{
+    "nodes": 169343,
+    "directed_edges": 1166243,
+    "message_passing_edges": 2315598,
+    "features": 128,
+    "classes": 40,
+    "density": 4.066840277668502e-05,
+    "training_nodes": 90941,
+    "validation_nodes": 29799,
+    "test_nodes": 48603
+}
